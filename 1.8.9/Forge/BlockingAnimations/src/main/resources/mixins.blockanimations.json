@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "net.zogtt.blockanimations.mixin.mixins",
+  "refmap": "mixins.blockanimations.refmap.json",
+  "mixins": [
+    "MixinItemRenderer"
+  ]
+}

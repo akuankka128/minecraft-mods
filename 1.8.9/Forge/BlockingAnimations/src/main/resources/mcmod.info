@@ -1,0 +1,8 @@
+[{
+  "modid": "blockanimations",
+  "name": "Blocking Animations",
+  "description": "Adds animations to blocking with a sword.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["@ZogTT"]
+}]
